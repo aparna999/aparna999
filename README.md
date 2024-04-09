@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React.js, Next.js**
 - 📫 How to reach me **b.aparna.pyla@gmail.com**
 
-- 📄 Know about my experiences [8 years experience in developing web applications using Angular framework](8 years experience in developing web applications using Angular framework)
+- 📄 Know about my experiences - 8 years experience in developing web applications using Angular framework, TypeScript, JavaScript, RxJs, NgRx, Microsoft Azure
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
