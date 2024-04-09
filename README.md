@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aparna Pyla</h1>
 <h3 align="center">A passionate frontend developer from Greater Los Angeles area, California</h3>
 
-- 🌱 I’m currently learning **React.js, Next.js**
-
 - 💬 Ask me about **Angular**
-
+- 🌱 I’m currently learning **React.js, Next.js**
 - 📫 How to reach me **b.aparna.pyla@gmail.com**
 
 - 📄 Know about my experiences [8 years experience in developing web applications using Angular framework](8 years experience in developing web applications using Angular framework)
